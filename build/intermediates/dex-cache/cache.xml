@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_bd7663aa022e0115adb34c7d12c8db82eddb397f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4e922355f2b8f51035284bb587e8877977cc7707">
+        <dex dex="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1faefb5721993dd5bb30019e4283a5724dc9e330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="254352c90ecdc5a66c803030eef8383778c84a74">
+        <dex dex="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d99d64741b15f94c4893c5c47e6e46cb3cbe0bc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_5f21ee33466f6a680fbc8da7c64168e5f111fc3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_73d689566eb7178656fcae77685bf5fcdbf17065\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luv Gupta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_fbf0fcf5366e05249d2c22fb7e46ba486e8f8eb6\classes.dex" />
+    </item>
+
+</items>
