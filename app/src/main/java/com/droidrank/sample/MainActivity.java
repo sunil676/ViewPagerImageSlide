@@ -4,6 +4,7 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
@@ -41,9 +42,10 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+                Log.d("", "click position: "+clickPosition);
                 if (clickPosition > 1) {
+                    mViewPager.setCurrentItem(getItem(-1), true);
                     clickPosition--;
-                    mViewPager.setCurrentItem(getItemPre(-1), true);
                 }
             }
         });
@@ -52,8 +54,10 @@ public class MainActivity extends AppCompatActivity {
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Log.d("", "click position: "+clickPosition);
                 if (clickPosition < list.size()) {;
                     mViewPager.setCurrentItem(getItem(+1), true);
+                    clickPosition++;
 
                 }
             }
@@ -128,12 +132,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private int getItem(int i) {
+        Log.v("", "Curent postion: "+mViewPager.getCurrentItem());
         return mViewPager.getCurrentItem() + i;
     }
-
-    private int getItemPre(int i) {
-        return mViewPager.getCurrentItem() - i ;
-    }
-
 
 }

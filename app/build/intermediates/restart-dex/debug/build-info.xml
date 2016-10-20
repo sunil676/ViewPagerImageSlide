@@ -4,13 +4,13 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="282717630450187"
+    timestamp="541915936006657"
     token="-7123255140611769148"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="237" />
+        duration="252" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -19,14 +19,14 @@
         duration="52" />
     <task
         name="verifier"
-        duration="10" />
+        duration="7" />
 
     <artifact
         location="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="282717630450187"
+        timestamp="541915936006657"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Luv Gupta\Downloads\download_bf18d8sl08d_284iigd06q9_3089902\Solution\app\build\outputs\apk\app-debug.apk"
